@@ -527,7 +527,7 @@ Credits
 * [wallet42](http://moneropool.com) - Funded development of payment denominating and min threshold feature
 * [Wolf0](https://bitcointalk.org/index.php?action=profile;u=80740) - Helped try to deobfuscate some of the daemon code for getting a bug fixed
 * [Tacotime](https://bitcointalk.org/index.php?action=profile;u=19270) - helping with figuring out certain problems and lead the bounty for this project's creation
-* [xtronica](https://github.com/xtronica/) - See his repo for the changes
+* [xtronica](https://github.com/xtronica/) - Did many tests during development to help discover the errors of payments and fix them
 * [Phoenix-Digital](https://phoenix-digital.net/) - Support
 
 
