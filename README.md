@@ -527,10 +527,18 @@ Credits
 * [wallet42](http://moneropool.com) - Funded development of payment denominating and min threshold feature
 * [Wolf0](https://bitcointalk.org/index.php?action=profile;u=80740) - Helped try to deobfuscate some of the daemon code for getting a bug fixed
 * [Tacotime](https://bitcointalk.org/index.php?action=profile;u=19270) - helping with figuring out certain problems and lead the bounty for this project's creation
-* [fancoder](https://github.com/fancoder/) - See his repo for the changes
+* [xtronica](https://github.com/xtronica/) - See his repo for the changes
+* [Phoenix-Digital](https://phoenix-digital.net/) - Support
+
+
+Donations:
+BCN: 21KVPAnhkAuYVJAeBDsK7q9nsvSAJLL2tFEn4RZMzez49BW915VnJvZfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJN7GbiM
+XMR: 43y9XfsnZka28wuKsygTkp3Jm8CFWc4HuV9RDahGf7AeXdci9t6oaxNToiubfCq11tQAD2YZyb478foKSCAPdMZRAP7EJS1
 
 License
 -------
 Released under the GNU General Public License v2
 
 http://www.gnu.org/licenses/gpl-2.0.html
+
+
