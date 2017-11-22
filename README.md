@@ -77,9 +77,13 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * [CryptoNote Forum](https://forum.cryptonote.org/)
 * [CryptoNote Universal Pool Forum](https://bitcointalk.org/index.php?topic=705509)
 * [Forknote](https://forknote.net)
+* [Phoenix-Digital](https://phoenix-digital.net)
+* [Xtronica](https://xtronica.info)
+
 
 #### Pools Using This Software
 
+* http://bcn.xfree.pm
 * http://democats.org
 * http://cryptonotepool.com/
 
