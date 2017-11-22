@@ -531,9 +531,9 @@ Credits
 * [Phoenix-Digital](https://phoenix-digital.net/) - Support
 
 
-* <b>Donations</b>:<br>
-* BCN: 21KVPAnhkAuYVJAeBDsK7q9nsvSAJLL2tFEn4RZMzez49BW915VnJvZfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJN7GbiM <br>
-* XMR: 43y9XfsnZka28wuKsygTkp3Jm8CFWc4HuV9RDahGf7AeXdci9t6oaxNToiubfCq11tQAD2YZyb478foKSCAPdMZRAP7EJS1 <br>
+* <b>Donations</b>:<p>
+*<b> BCN:</b> 21KVPAnhkAuYVJAeBDsK7q9nsvSAJLL2tFEn4RZMzez49BW915VnJvZfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJN7GbiM <p>
+* <b>XMR:</b> 43y9XfsnZka28wuKsygTkp3Jm8CFWc4HuV9RDahGf7AeXdci9t6oaxNToiubfCq11tQAD2YZyb478foKSCAPdMZRAP7EJS1 <p>
 
 License
 -------
