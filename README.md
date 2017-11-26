@@ -122,7 +122,7 @@ sudo apt-get install git build-essential redis-server libboost1.55-all-dev nodej
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/forknote/cryptonote-universal-pool.git pool
+git clone https://github.com/xtronica/BCN-Cryptonote-Pool pool
 cd pool
 npm update
 ```
@@ -133,10 +133,10 @@ npm update
 Explanation for each field:
 ```javascript
 /* Used for storage in redis so multiple coins can share the same redis instance. */
-"coin": "dashcoin",
+"coin": "bytecoin",
 
 /* Used for front-end display */
-"symbol": "DSH",
+"symbol": "BCN",
 
 /* Minimum units in a single coin, see COIN constant in DAEMON_CODE/src/cryptonote_config.h */
 "coinUnits": 1000000000000,
